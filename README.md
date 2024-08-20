@@ -36,7 +36,7 @@ You can click the Preview link to take a look at your changes.
 ![Kotlin](https://img.shields.io/badge/-Kotlin%20-05122A?style=flat&logo=kotlin)&nbsp;
 ![Android](https://img.shields.io/badge/-Android%20-05122A?style=flat&logo=android)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)&nbsp;
-![OOP](https://img.shields.io/badge/-Oop-05122A?style=flat&logo=oop)&nbsp;
+![OOP](https://img.shields.io/badge/-OOP-05122A?style=flat&logo=OOP)&nbsp;
 
 
 ![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=dart)&nbsp;
