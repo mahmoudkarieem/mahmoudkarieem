@@ -35,12 +35,13 @@ You can click the Preview link to take a look at your changes.
 ### 🛠 &nbsp;Tech Stack
 ![Kotlin](https://img.shields.io/badge/-Kotlin%20-05122A?style=flat&logo=kotlin)&nbsp;
 ![Android](https://img.shields.io/badge/-Android%20-05122A?style=flat&logo=android)&nbsp;
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)&nbsp;
+
 
 ![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=dart)&nbsp;
 ![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=Flutter&logoColor=563D7C)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-OOP-05122A?style=flat&logo=OOP&logoColor=1572B6)&nbsp;
-![React.js](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)
 
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
