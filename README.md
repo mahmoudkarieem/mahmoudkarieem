@@ -24,7 +24,7 @@ You can click the Preview link to take a look at your changes.
 
 - 🏢 I'm a Software Engineer and Mobile Applicition Development
 - 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
-- 💬 Ask me about my experience with Dart, Java, and Flutter, or anything related to mopile app development.
+- 💬 Ask me about my experience with Android , Flutter ,java , Kotlin and Compose, or anything related to mopile app development.
 
 
 ### Connect with Me :
