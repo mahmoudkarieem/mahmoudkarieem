@@ -33,8 +33,11 @@ You can click the Preview link to take a look at your changes.
 
 
 ### 🛠 &nbsp;Tech Stack
-![JavaScript](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=dart)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=Flutter&logoColor=563D7C)&nbsp;
+![Kotlin](https://img.shields.io/badge/-Kotlin%20-05122A?style=flat&logo=kotlin)&nbsp;
+![Android](https://img.shields.io/badge/-Android%20-05122A?style=flat&logo=android)&nbsp;
+
+![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=dart)&nbsp;
+![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=Flutter&logoColor=563D7C)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-OOP-05122A?style=flat&logo=OOP&logoColor=1572B6)&nbsp;
 ![React.js](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)
@@ -45,4 +48,5 @@ You can click the Preview link to take a look at your changes.
 
 
 ![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
+
 
