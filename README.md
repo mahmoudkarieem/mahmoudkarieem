@@ -57,5 +57,4 @@ You can click the Preview link to take a look at your changes.
 ![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
 
 
-### 📈 GitHub Stats:
-![https://github.com/mahmoudkarieem(https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
+
