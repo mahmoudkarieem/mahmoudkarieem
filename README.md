@@ -22,9 +22,14 @@ You can click the Preview link to take a look at your changes.
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Developer%20;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p> 
 
-- 🏢 I'm a Software Engineer and Mobile Applicition Development
+  👨‍💻 About Me:
+- 🏢 I'm a Mobile Application Developer with expertise in Kotlin, Java, and Flutter.
 - 👨💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
 - 💬 Ask me about my experience with Android , Flutter ,java , Kotlin and Compose, or anything related to mopile app development.
+- 🌱 I’m always expanding my knowledge, currently learning Kotlin, Compose, and advanced Android development concepts.
+- 💬 Ask me about my experience with Android, Kotlin, Java, Flutter, or modern mobile app architecture (MVVM, MVI, etc.).
+- 🚀 Passionate about building scalable, maintainable apps with modern technologies like Jetpack Compose and Hilt.
+  
 
 
 ### Connect with Me :
