@@ -34,7 +34,7 @@ You can click the Preview link to take a look at your changes.
 
 ### Connect with Me :
 
-<a href="https://linkedin.com/in/mahmoudkarieem" target="_blank"><img src="https://img.shields.io/badge/-Mahmoud%20Karieem-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/mahmoud-kariem/" target="_blank"><img src="https://img.shields.io/badge/-Mahmoud%20Karieem-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 
 
 ### 🛠 &nbsp;Tech Stack
