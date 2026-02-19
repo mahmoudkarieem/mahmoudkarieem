@@ -1,60 +1,40 @@
-- 👋 Hi, I’m @mahmoudkarim
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# 👋 Hi, I’m Mahmoud Kariem
+### Android Software Engineer | Kotlin Expert | Jetpack Compose Enthusiast
 
-<!---
-mahmoudkarieem/mahmoudkarieem is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-<img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
+<p align="left">
+  <a href="https://linkedin.com/in/mahmoud-kariem"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+  <a href="mailto:mahmoudkariem83@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+</p>
 
-<h3 align="center">
-  Welcome to Mahmoud Elsaied's profile!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h3>
+---
 
-<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Developer%20;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
-</p> 
+### 👨‍💻 About Me
+- 🎓 **CS Graduate** from Tanta University[cite: 40, 41].
+- 🚀 **1+ years of experience** building modern Android applications with **Kotlin**
+- 🛠️ Expert in **Jetpack Compose**, **MVVM/MVI**, **Coroutines**, and **Hilt**
+- 📈 **Impact:** Optimized 'Cinema Vault' app, cutting initial load times by **20%** using Retrofit & Paging 3.
+- 🎨 Passionate about building declarative UIs and custom **Canvas** components
 
-  👨‍💻 About Me:
-- 🏢 I'm a Mobile Application Developer with expertise in Kotlin, Java, and Flutter.
-- 👨💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
-- 💬 Ask me about my experience with Android , Flutter ,java , Kotlin and Compose, or anything related to mopile app development.
-- 🌱 I’m always expanding my knowledge, currently learning Kotlin, Compose, and advanced Android development concepts.
-- 💬 Ask me about my experience with Android, Kotlin, Java, Flutter, or modern mobile app architecture (MVVM, MVI, etc.).
-- 🚀 Passionate about building scalable, maintainable apps with modern technologies like Jetpack Compose and Hilt.
-  
+---
 
+### 🛠️ Tech Stack & Tools
 
-### Connect with Me :
+| Category | Skills |
+| :--- | :--- |
+| **Languages** |Kotlin (Expert), Java, Dart ,Flutter |
+| **Android Development** | Jetpack Compose, Room, Retrofit, Paging 3, DataStore, Services  |
+| **Architecture** | MVVM, MVI, Clean Architecture, SOLID Principles |
+| **Cloud & Tools** |Firebase (Auth, Firestore, Cloud Messaging), Git, Agile/Scrum |
 
-<a href="https://www.linkedin.com/in/mahmoud-kariem/" target="_blank"><img src="https://img.shields.io/badge/-Mahmoud%20Karieem-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+---
 
+### 🏆 Featured Projects
+* **Cinema Vault:** A movie discovery app built with **Jetpack Compose** and **MVVM**
+* **Fitness Tracker:** Real-time data sync with **Firebase** and secure **JWT/OAuth** authentication
+* ]**Authentication-Firebase:** Custom **Canvas UI** components integrated within a clean architectur
 
-### 🛠 &nbsp;Tech Stack
-![Kotlin](https://img.shields.io/badge/-Kotlin%20-05122A?style=flat&logo=kotlin)&nbsp;
-![Android](https://img.shields.io/badge/-Android%20-05122A?style=flat&logo=android)&nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)&nbsp;
-![OOP](https://img.shields.io/badge/-OOP-05122A?style=flat&logo=OOP)&nbsp;
+---
 
-
-![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=dart)&nbsp;
-![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=Flutter&logoColor=563D7C)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-
-
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-
-
-![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
-
-
-
+### 📊 GitHub Stats
+![Mahmoud's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahmoudkarieem&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoudkarieem&layout=compact&theme=radical)
