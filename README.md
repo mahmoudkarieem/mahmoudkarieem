@@ -31,10 +31,10 @@
 ### 🏆 Featured Projects
 * **Cinema Vault:** A movie discovery app built with **Jetpack Compose** and **MVVM**
 * **Fitness Tracker:** Real-time data sync with **Firebase** and secure **JWT/OAuth** authentication
-* ]**Authentication-Firebase:** Custom **Canvas UI** components integrated within a clean architectur
+* **Authentication-Firebase:** Custom **Canvas UI** components integrated within a clean architectur
 
 ---
 
 ### 📊 GitHub Stats
-![Mahmoud's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahmoudkarieem&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoudkarieem&layout=compact&theme=radical)
+![Mahmoud's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=mahmoudkarieem&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=mahmoudkarieem&layout=compact&theme=radical)
